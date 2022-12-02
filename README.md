@@ -4,7 +4,7 @@ Tasarım konusuna fazla önem verilmemiştir. Bu uyglamadaki amaç useState nas�
 
 ## Uygulamayı ayağa kaldırmak için
 
-Proje klasörüne gidip:
+Proje klasörüne gidip terminal ekranına:
 ### `npm start` 
 yazmalısınız.
 
